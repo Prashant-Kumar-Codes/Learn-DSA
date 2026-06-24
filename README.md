@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prashant-Kumar-Codes/Learn-DSA/tree/master/0001-two-sum) |
 | [2706-buy-two-chocolates](https://github.com/Prashant-Kumar-Codes/Learn-DSA/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/Prashant-Kumar-Codes/Learn-DSA/tree/master/2706-buy-two-chocolates) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Prashant-Kumar-Codes/Learn-DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
